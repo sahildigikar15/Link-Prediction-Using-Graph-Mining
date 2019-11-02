@@ -33,3 +33,15 @@ data contains two columns source and destination eac edge in graph
     Both precision and recall is important so F1 score is good choice
     Confusion matrix
 
+### Featurizations:
+    1] Jaccard Distance
+    2] Cosine distance
+    3] Page Ranking
+    4] Shortest path
+    5] Checking for same community
+    6] Adamic/Adar Index
+    7] Is persion was following back
+    8] Katz Centrality
+    9] Hits Score
+    10] Preferential Attachment
+    11] SVD features
